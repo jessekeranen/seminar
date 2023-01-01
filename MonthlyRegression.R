@@ -1,16 +1,16 @@
 ###############Enviroment clearing and installing/loading packages and function declearing###############
 rm(list = ls())
 
-install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("lubridate")
-install.packages("xts")
-install.packages("data.table")
-install.packages("friedland") # https://github.com/efriedland/friedland
-install.packages("tibble")
-install.packages("olsrr")
-install.packages("tseries")
-install.packages("writexl")
+#install.packages("ggplot2")
+#install.packages("dplyr")
+#install.packages("lubridate")
+#install.packages("xts")
+#install.packages("data.table")
+#install.packages("friedland") # https://github.com/efriedland/friedland
+#install.packages("tibble")
+#install.packages("olsrr")
+#install.packages("tseries")
+#install.packages("writexl")
 
 library(ggplot2)     #plotting
 library(dplyr)       #functional programming
